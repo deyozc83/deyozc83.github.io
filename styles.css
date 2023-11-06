@@ -29,5 +29,5 @@ h1{
  }
 a:hover {
     text-decoration: none; /* remove underlining on anchor tags */
-    color: salmon; /* pick the color you want */
+    color: rgb(25, 85, 176); /* pick the color you want */
 }
