@@ -1,13 +1,14 @@
 body{
     background-color: rgb(223, 67, 77);
     font-family: arial;
+    display: flex;
 }
 h1{
     color: darkgoldenrod;
     text-align: center;
 }
 .assign {
-    display: flex;
+    /*display: flex;*/
     padding: 10px;
     margin: 10px;
     background: darkorchid;
@@ -25,7 +26,7 @@ h1{
     border: 2px dashed rgb(18, 137, 77); /* try dashed, dotted */
  }
 .assign {
-    border-radius: 20px; /* curved corners */
+    /*border-radius: 20px; /* curved corners */*/
  }
 a:hover {
     text-decoration: none; /* remove underlining on anchor tags */
